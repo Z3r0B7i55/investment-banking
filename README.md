@@ -2,8 +2,11 @@
 Airgead Investment Banking Platform
 
 Charles S. Hopkins Jr.
+
 Professor Wasim Alim
+
 CS-210 8-1 Journal: Portfolio Submission
+
 Southern New Hampshire University
 
 •	For Airgead Banking, one of Chada Tech’s clients, I was requested to develop an investment application that would determine the compound interest accrued over any supplied length of time. The program would also take the input of amounts relating to the initial investment as well as monthly deposits and annual interest. Ideally, you could input these amounts and determine how much you would make after that length of time passed. However, this program does not account for inflation or other anomalous variables that may have been unforeseen at the time. This was a basic approach for investment strategies. 
